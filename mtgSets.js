@@ -1,4 +1,4 @@
-sets = {
+var sets = {
     "Limited Edition Alpha": "LEA",
     "Limited Edition Beta": "LEB",
     "Unlimited Edition": "2ED",
