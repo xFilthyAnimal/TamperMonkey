@@ -39,4 +39,7 @@ var css = `
         width: 1258px;
         min-height: 1140px;
     }
+    .variations {
+        font-family: MPlantin;
+    }
 `;
