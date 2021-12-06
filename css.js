@@ -35,4 +35,7 @@ var css = `
         -webkit-border-radius = '30px';
         -moz-border-radius = '30px';
     }
+    #ctl00_ctl00_ctl00_MainContainer {
+        width = '1258px';
+    }
 `;
