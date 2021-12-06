@@ -36,6 +36,10 @@ var css = `
         -moz-border-radius = '30px';
     }
     #ctl00_ctl00_ctl00_MainContainer {
-        width = '1258px';
+        width: 1258px;
+    }
+    .gathererContent {
+        width: 1258px;
+        min-height: 1140px;
     }
 `;
