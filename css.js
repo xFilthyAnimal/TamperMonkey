@@ -31,9 +31,6 @@ var css = `
     }
     .cardImage {
         height: 500px;
-        border-radius = '30px';
-        -webkit-border-radius = '30px';
-        -moz-border-radius = '30px';
     }
     #ctl00_ctl00_ctl00_MainContainer {
         width: 1258px;
@@ -41,10 +38,5 @@ var css = `
     .gathererContent {
         width: 1258px;
         min-height: 1140px;
-    }
-    #ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_cardImage {
-        border-radius = '30px';
-        -webkit-border-radius = '30px';
-        -moz-border-radius = '30px';
     }
 `;
