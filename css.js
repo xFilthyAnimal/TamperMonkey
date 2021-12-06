@@ -42,4 +42,9 @@ var css = `
         width: 1258px;
         min-height: 1140px;
     }
+    #ctl00_ctl00_ctl00_MainContent_SubContent_SubContent_cardImage {
+        border-radius = '30px';
+        -webkit-border-radius = '30px';
+        -moz-border-radius = '30px';
+    }
 `;
