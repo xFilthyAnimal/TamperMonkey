@@ -31,5 +31,8 @@ var css = `
     }
     .cardImage {
         height: 500px;
+        border-radius = '30px';
+        -webkit-border-radius = '30px';
+        -moz-border-radius = '30px';
     }
 `;
