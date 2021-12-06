@@ -26,8 +26,8 @@ var css = `
         vertical-align: top;
     }
     .CommunityRatings {
-        textAlign = 'center';
-        margin = 20px 0;
+        text-align: center;
+        margin: 20px 0;
     }
     .cardImage {
         height: 500px;
