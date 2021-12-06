@@ -41,5 +41,7 @@ var css = `
     }
     .variations {
         font-family: MPlantin;
+        color: #ffffff;
+        font-size: 1.1em;
     }
 `;
