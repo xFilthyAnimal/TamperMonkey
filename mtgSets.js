@@ -224,5 +224,6 @@ var sets = {
     "Masters Edition IV": "ME4",
     "Vintage Masters": "VMA",
     "Tempest Remastered": "TPR",
-    "Innistrad: Crimson Vow Commander": "VOC"
+    "Innistrad: Crimson Vow Commander": "VOC",
+    "Magic Online Promos": "PRM"
 };
