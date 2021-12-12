@@ -225,5 +225,5 @@ var sets = {
     "Vintage Masters": "VMA",
     "Tempest Remastered": "TPR",
     "Innistrad: Crimson Vow Commander": "VOC",
-    "Magic Online Promos": "PRM"
+    "Promo set for Gatherer": "PRM"
 };
